@@ -1,0 +1,26 @@
+
+__pycache__/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Pytest coverage
+.coverage
+htmlcov/
+
+# cache
+.cache/
+*.pyc
+
+# virtualenv
+.venv/
+venv/
+ENV/
+# git config --global user.name "OscarLeoSanchez"
+# git config --global user.email "olsanchezco@unal.edu.co"
